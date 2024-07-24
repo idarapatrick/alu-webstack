@@ -16,4 +16,3 @@ backend web-backend
     server 6098-web-02 3.95.66.15:80 check
 backend letsencrypt-backend
    server letsencrypt 127.0.0.1:54321
-
